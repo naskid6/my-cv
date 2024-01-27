@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/.github.io/my-cv.git/static/css/main.2520d208.css",
+    "main.js": "/.github.io/my-cv.git/static/js/main.0ce5b03f.js",
+    "static/media/WhatsApp Image 2023-08-24 at 04.07.53.jpg": "/.github.io/my-cv.git/static/media/WhatsApp Image 2023-08-24 at 04.07.53.1ed91675b841f1ebc2a1.jpg",
+    "index.html": "/.github.io/my-cv.git/index.html",
+    "main.2520d208.css.map": "/.github.io/my-cv.git/static/css/main.2520d208.css.map",
+    "main.0ce5b03f.js.map": "/.github.io/my-cv.git/static/js/main.0ce5b03f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2520d208.css",
+    "static/js/main.0ce5b03f.js"
+  ]
+}
